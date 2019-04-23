@@ -116,7 +116,6 @@ grille = [[0,0,0,0,0,0,0,0,0],
           [0,0,0,0,0,0,0,0,0],
           [0,0,0,0,0,0,0,0,0]]
 
-
 #fonction qui complete la grille passÈe en paramËtre
 def genere_grille(grille):
     valider_choix(0,grille)
