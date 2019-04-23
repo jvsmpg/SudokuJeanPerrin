@@ -1,5 +1,7 @@
 #fonction qui donne la liste des valeurs que l'in peut mettre ‡ la ligne et colonne de grille
 #L est l'ensemble des choix possibles
+#BLA BLA
+
 L = [1,2,3,4,5,6,7,8,9]
 #fonction qui affecte la valeur ‡ la position intiquÈe dans la grille passÈe en paramËtre
 def affecte_valeur(position,valeur,grille):
