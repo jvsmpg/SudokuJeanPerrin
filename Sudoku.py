@@ -1,5 +1,7 @@
 import random
-from math import *
+from math import*
+#test de commit
+#autre de commit
 
 
 def premiere_grille():
